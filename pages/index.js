@@ -6,16 +6,16 @@ import {
   AiFillYoutube,
 } from "react-icons/ai";
 import Image from "next/image";
-import deved from "../public/dev-ed-wave.png";
-import design from "../public/design.png";
-import code from "../public/code.png";
-import consulting from "../public/consulting.png";
-import web1 from "../public/web1.png";
-import web2 from "../public/web2.png";
-import web3 from "../public/web3.png";
-import web4 from "../public/web4.png";
-import web5 from "../public/web5.png";
-import web6 from "../public/web6.png";
+import deved from "../posts/dev-ed-wave.png";
+import design from "../posts/design.png";
+import code from "../posts/code.png";
+import consulting from "../posts/consulting.png";
+import web1 from "../posts/web1.png";
+import web2 from "../posts/web2.png";
+import web3 from "../posts/web3.png";
+import web4 from "../posts/web4.png";
+import web5 from "../posts/web5.png";
+import web6 from "../posts/web6.png";
 import { useState } from "react";
 
 export default function Home() {
